@@ -27,7 +27,7 @@
 <!-- <br/><br/><br/><br/> -->
 <h2 align="center">☕ Let's Connect</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/shivam03/"><img height="60" align="center" src="icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shivam03/"><img height="60" align="center" src="icons/81f25479-e8c4-49ca-b59d-82688bb9563b.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
 <br/><br/>
