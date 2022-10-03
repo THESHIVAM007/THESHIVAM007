@@ -63,39 +63,3 @@
 <br/><br/>
 
 
-<h1></h1>
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/THESHIVAM007/gold-tub-6222" title="Hub Spot"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=THESHIVAM007&repo=gold-tub-6222&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="left" href="https://github.com/THESHIVAM007/max-fashion-website-clone" title="Max Fashion"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=THESHIVAM007&repo=max-fashion-website-clone&theme=react&border_color=61dafb&border_radius=10"></a>
- <br><br><br><br><br><br>
-  <a align="right" href="https://github.com/Raj-Mandloii/Chat-App" title="Booking.com"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Raj-Mandloii&repo=Chat-App&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<!-- <br/><br/> -->
-<!-- <img src="https://github-readme-svg.vercel.app/api/v1/svg/road" alt="My endless road" /> -->
-<!-- ## Watch my contribution graph get eaten by the snake 🐍
-<!-- refer this: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-<!-- ![Raj-Mandloii snake gif](https://github.com/Raj-Mandloii/Raj-Mandloii/blob/output/github-contribution-grid-snake.svg)    -->
-
-<!-- ### Show some ❤️ by starring some of the repositories! 
-Talking about my personal stuff:
-   
-- 🙋‍♂️ Full Stack Web Developer.
-- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 [Portfolio Link](https://theshivam007.github.io/)
---> 
-
-  <!-- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=appveyor&color=orange)](https://raj-mandloii.github.io/raj-mandloi/) 
--->
-
-
-  
-<!--   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  -->
-
-<!--   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
-
-<!--  ==============                                     GRAPH                                   ============ -->
-<!-- <a href="https://github.com/Raj-Mandloii/github-readme-activity-graph"><img alt="krishna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumarKeshri96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
--->
