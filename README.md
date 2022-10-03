@@ -39,20 +39,17 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="icons/mongo.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-    <a href="https://flutter.dev/" target="_blank"> <img src="icons/flutter.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
-      <a href="https://dart.dev/" target="_blank"> <img src="icons/dart.png?raw=true" alt="redux" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>  
-      
+ 
   </p>
 <br/><br/>
 
 ### ⚙️ &nbsp;GitHub Analytics
-[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Raj-Mandloii&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://raj-mandloii.github.io/raj-mandloi/)
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=THESHIVAM007&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://theshivam007.github.io/)
 
  <div >
  <br/>
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Raj-Mandloii&show_icons=true&locale=en&layout=list&theme=radical" alt="Raj" width="380" /></p>
-<p>&nbsp;<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=Raj-Mandloii&theme=dark" alt="RAJ" width="400" /></p>
+<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=THESHIVAM007&show_icons=true&locale=en&layout=list&theme=radical" alt="Raj" width="380" /></p>
+<p>&nbsp;<img align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=THESHIVAM007&theme=dark" alt="RAJ" width="400" /></p>
 <br/><br/><br/>
 
 
