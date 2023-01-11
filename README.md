@@ -1,7 +1,7 @@
 [![MasterHead]()](https://theshivam007.io)
 <h1 align="center">Hi 👋, I'm Shivam Choudhary</h1>
 <h3 align="center">A passionate Full-Stack Web developer</h3>
-<img align = "right" alt= "Coding " width="400px" src="[(https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)">
+<img align = "right" alt= "Coding " width="400px" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
 
