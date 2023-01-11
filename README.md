@@ -1,9 +1,13 @@
+[![MasterHead](https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp)](https://theshivam007.io)
 <h1 align="center">Hi 👋, I'm Shivam Choudhary</h1>
-<h3 align="center">A passionate Full-Stack Web developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web developer</h3>
+<img align = "right" alt= "Coding " width="400px" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshivam007&label=Profile%20views&color=0e75b6&style=flat" alt="theshivam007" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theshivam007" alt="theshivam007" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://theshivam007.github.io/](https://theshivam007.github.io/)
 
