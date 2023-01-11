@@ -27,7 +27,7 @@
 <!-- <br/><br/><br/><br/> -->
 <h2 align="center">☕ Let's Connect</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/shivam03/"><img height="60" align="center" src="[icons/81f25479-e8c4-49ca-b59d-82688bb9563b.jpg?raw=true](https://cdn-icons-png.flaticon.com/512/174/174857.png)"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/shivam03/"><img height="60" align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
 </p>
 <h2 align="center"><img src="icons/laptop.gif?raw=true" width="50"> Technology Stack </h2>
 <br/><br/>
@@ -43,6 +43,8 @@
   </p>
 <br/><br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THESHIVAM007&theme=radical)
+<br/>
+<br/>
 ### ⚙️ &nbsp;GitHub Analytics
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=THESHIVAM007&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://theshivam007.github.io/)
 
