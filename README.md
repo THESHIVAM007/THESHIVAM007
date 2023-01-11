@@ -42,7 +42,7 @@
  
   </p>
 <br/><br/>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THESHIVAM007&theme=radical)
 ### ⚙️ &nbsp;GitHub Analytics
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=THESHIVAM007&theme=react-dark&hide_border=false&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://theshivam007.github.io/)
 
