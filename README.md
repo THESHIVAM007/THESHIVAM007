@@ -9,8 +9,6 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://theshivam007.github.io/](https://theshivam007.github.io/)
-
 - 📫 How to reach me **sciit2003@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HAlRO0ZaAR2oVJMIIGyiotlSosUipWwA/view?usp=share_link](https://drive.google.com/file/d/1HAlRO0ZaAR2oVJMIIGyiotlSosUipWwA/view?usp=share_link)
