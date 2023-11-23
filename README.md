@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **sciit2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HAlRO0ZaAR2oVJMIIGyiotlSosUipWwA/view?usp=share_link](https://drive.google.com/file/d/1HAlRO0ZaAR2oVJMIIGyiotlSosUipWwA/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
