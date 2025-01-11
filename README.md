@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shivam Choudhary</h1>
-<h3 align="center">A passionate Full Stack Web DEveloper & Flutter developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer & Flutter developer from India</h3>
 
 - 📝 I regularly write articles on [https://medium.com/@shivamm03](https://medium.com/@shivamm03)
 
-- 💬 Ask me about **flutter, Dart, Firebase**
+- 💬 Ask me about **flutter, Dart, Firebase , JavaScript, React.Js, Next.Js, MongoDB**
 
 - 📫 How to reach me **shivamm0383@gmail.com**
 
